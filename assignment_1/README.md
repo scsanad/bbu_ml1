@@ -27,4 +27,4 @@ With the use of conda we will create an environment and install the necessary pa
 - Open the notebooks from the web interface, complete the missing code segments and run the cells
 
 ## Acknowledgements
-This assignment is based on the practical session of the [2018 Transilvanian Machine Learning Summer School](https://tmlss.ro/). We would like to thank the organizers for making the exercises available. 
+This assignment is based on the practical session of the [2018 Transylvanian Machine Learning Summer School](https://tmlss.ro/). We would like to thank the organizers for making the exercises available. 
