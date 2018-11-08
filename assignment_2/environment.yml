@@ -1,0 +1,8 @@
+name: logistic_reg
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - jupyter
