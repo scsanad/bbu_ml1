@@ -4,5 +4,6 @@ This repository contains laboratory assignments for students from Babes-Bolyai U
 
 ## Laboratory topics:
 * Introduction to Numpy and Matplotlib
+* Gradient descent, cross entropy loss and logistic regression
 
 Created by Szabolcs Pável and Csanád Sándor
